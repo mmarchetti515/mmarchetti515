@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mmarchetti515!
 - 👀 I’m interested in all things comp sci! I love cool projects and learning about new technologies.
 - 🌱 I’m currently enrolled in NIU and targeting the computational computer science program that has a heavy emphasis in mathematics.
-- 💞️ I’m unavailable for collaboration currently due to my school coursework, but would love to hear about exciting projects you're working on. 
 - 📫 How to reach me:  
       - LinkedIn: https://www.linkedin.com/in/michael-marchetti-784356232  
       - email: mmarchetti515@gmail.com
