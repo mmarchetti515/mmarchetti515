@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mmarchetti515!
 - 👀 I’m interested in all things comp sci! I love cool projects and learning about new technologies.
-- 🌱 I’m currently enrolled at NIU and am targeting the software development computer science program with a minor in mathematics.
+- 🌱 I’ve recently graduated from NIU with as a bachelor of computer science program with a minor in mathematics.
 - 📫 How to reach me:  
       - LinkedIn: https://www.linkedin.com/in/michael-marchetti-784356232  
       - email: mmarchetti515@gmail.com <br/>
